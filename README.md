@@ -3,22 +3,6 @@
 1、实现了安卓上面的剪切板，扩展协议，因为安卓上以前也没有contrl c/v，所以也没人做
 
 2、实现了安卓输入法拦截处理，hook了系统inputconnection，实现unicode拆分发送给 vncserver，再经输入法转成unicode
-  与https://src.ift.run/fde/tigervncserver_x0server_input 配合使用
-
-
-
-
-
-
-
-
-
-
-https://src.ift.run/huyang1841/fde-bvnc-master  安卓客户端
-
-https://src.ift.run/fde/tigervncserver_x0server_input vnc服务端
-
-https://src.ift.run/huyang1841/fakeime Ibus输入法
 
 
 # Intro
